@@ -1,0 +1,47 @@
+
+
+
+.notificationNumber {
+    background-color: #0066CC;
+    color:  white;
+    /* border: 1px solid red; */
+    border:1px solid  #0066CC;
+    border-radius: 50%;
+    text-align: center;
+    width: 18px;
+    height: 18px;
+    margin-left: 10px;
+    margin-top: -33px;
+    font-size: 10px;
+    cursor: pointer;
+}
+.prentClass > .childClass{
+  display: inline-block;
+}
+.centercontent{
+  width: 800px;
+  height: 800px;
+  margin: 0 auto;
+
+}
+.info{
+  background-color: #0066CC;
+  border:1px solid #0066CC;
+  color:#FFFFFF;
+}
+.warning{
+  background-color: #F56300;
+  border:1px solid #F56300;
+    color:#FFFFFF;
+}
+.error{
+  background-color: #E30000;
+  border:1px solid #E30000;
+    color:#FFFFFF;
+}
+.marginStyle{
+  margin-left: -56px;
+}
+.para{
+  margin-left: 16px;
+}
